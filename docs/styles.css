@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(19, 19, 19);
+    margin: 0;
+    padding: 0;
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 200;
+}
+
+  
+
+.blue {
+    color: blue;
+}
+
+.custom-card {
+    background-color: black;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 3px rgb(0, 0, 98);
+    margin-bottom: 10px;
+}
+
+.card-title {
+    color: white;
+}
+
+.top-section {
+    background-color:rgb(97, 1, 1);
+    border-radius: 18px 18px 0px 0px;
+    padding: 10px;
+    border-bottom: 5px solid black;
+}
+
+.bottom-section {
+    background-color: rgb(0, 0, 98);
+    border-radius: 0px 0px 18px 18px;
+    padding: 10px;
+}
+
+.card-content {
+    color: white;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.title {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.greeting {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 50px;
+    padding: 10px;
+}
